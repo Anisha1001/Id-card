@@ -1,0 +1,38 @@
+#male{
+    height:300px;
+    width:200px;
+    border:2px solid black ;
+    display:inline-block;
+    margin:40px;
+    border-radius:15px;
+    box-shadow:2px 4px 8px black;
+    transition:1s;
+   
+}
+img{
+    width:100%;
+    border-radius:15px 15px 0 0;
+}
+#descm{
+    padding:10px;
+}
+#descf{
+    padding:10px;
+}
+#male:hover{
+    box-shadow:2px 4px 18px;
+}
+#female{
+    height:300px;
+    width:200px;
+    border:2px solid black ;
+    display:inline-block;
+    margin:10px;
+    border-radius:15px;
+    box-shadow:2px 4px 8px black;
+    transition:1s;
+   
+}
+#female:hover{
+    box-shadow:2px 4px 18px;
+}
